@@ -1,6 +1,7 @@
  =======================================================================
+ 
   Point Set Registration with Asymmetric Gaussian Mixtures (AGMReg) Demo 
- ----
+ 
  =======================================================================
  
  `Author:      Gang Wang`
@@ -40,10 +41,18 @@
  	
  ----
  
- 2D fish:
+###2D fish:
  
- ![image](https://drive.google.com/file/d/0B_IKZ4AQVWxaUzZmY2RoeTlOU1k/view?usp=sharing)
- 
- ![image](https://drive.google.com/file/d/0B_IKZ4AQVWxaOHNzRlQtSy1LN28/view?usp=sharing)
+![image](https://github.com/gwang-cv/AGMReg/blob/master/def_i.jpg?raw=true)
 
- 	
+ 
+![image](https://github.com/gwang-cv/AGMReg/blob/master/def_o.jpg?raw=true)
+
+
+###3D face:
+
+ 
+![image](https://github.com/gwang-cv/AGMReg/blob/master/3d_i.jpg?raw=true)
+
+
+![image](https://github.com/gwang-cv/AGMReg/blob/master/3d_o.jpg?raw=true)
