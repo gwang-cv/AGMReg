@@ -1,7 +1,7 @@
 
-  ## Point Set Registration with Asymmetric Gaussian Mixtures (AGMReg) Demo 
+  ## Point Set Registration with Asymmetric Gaussian Mixtures
  
-
+ (MoAGReg/AGMReg for short)
  
  Author:      Gang Wang
  
