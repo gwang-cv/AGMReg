@@ -1,22 +1,23 @@
- =======================================================================
+
+  ## Point Set Registration with Asymmetric Gaussian Mixtures (AGMReg) Demo 
  
-  Point Set Registration with Asymmetric Gaussian Mixtures (AGMReg) Demo 
+
  
- =======================================================================
+ Author:      Gang Wang
  
- `Author:      Gang Wang`
+ Date:         03/15/2015
  
- `Date:         03/15/2015`
- 
- `Email:    gwang.cv@gmail.com`
+ Email:    gwang.cv@gmail.com
+
+------
 
  My source code is available on this website.
  
  The demo code is an implementation of the ACCV and CVIU papers:
  
- 	Gang Wang, et al., "Robust Point Matching Using Mixture of Asymmetric Gaussians for Nonrigid Transformation", ACCV 2014
+Gang Wang, et al., "**Robust Point Matching Using Mixture of Asymmetric Gaussians for Nonrigid Transformation**", ACCV 2014
  
- 	Gang Wang, et al., "A Robust Non-rigid Point Set Registration Method Based on Asymmetric Gaussian Representation", CVIU 2015
+Gang Wang, et al., "**A Robust Non-rigid Point Set Registration Method Based on Asymmetric Gaussian Representation**", CVIU 2015
  
  BibTex:
  
@@ -41,7 +42,7 @@
  	
  ----
  
-###2D fish:
+### 2D fish:
  
 ![image](https://github.com/gwang-cv/AGMReg/blob/master/def_i.jpg?raw=true)
 
@@ -49,7 +50,7 @@
 ![image](https://github.com/gwang-cv/AGMReg/blob/master/def_o.jpg?raw=true)
 
 
-###3D face:
+### 3D face:
 
  
 ![image](https://github.com/gwang-cv/AGMReg/blob/master/3d_i.jpg?raw=true)
