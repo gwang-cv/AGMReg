@@ -3,21 +3,8 @@
  
  (MoAGReg/AGMReg for short)
  
- Author:      Gang Wang
  
- Date:         03/15/2015
- 
- Email:    gwang.cv@gmail.com
-
 ------
-
- My source code is available on this website.
- 
- The demo code is an implementation of the ACCV and CVIU papers:
- 
-Gang Wang, et al., "**Robust Point Matching Using Mixture of Asymmetric Gaussians for Nonrigid Transformation**", ACCV 2014
- 
-Gang Wang, et al., "**A Robust Non-rigid Point Set Registration Method Based on Asymmetric Gaussian Representation**", CVIU 2015
  
  BibTex:
  
